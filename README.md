@@ -2,5 +2,5 @@
 this is my frist github test!
 hahahahha
 it's a not easy!
-<hr/>
+<hr color="green"/>
 <input type="text">ss</input>
